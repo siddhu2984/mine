@@ -1,3 +1,4 @@
+<img src="https://tutorialspoint.com/images/html.gif">
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
