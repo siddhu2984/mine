@@ -1,4 +1,4 @@
-<img src="[https://tutorialspoint.com/images/html.gif](https://media.tenor.com/snND-LWJ-mwAAAAM/lolol.gif)">
+<img src="https://media.tenor.com/snND-LWJ-mwAAAAM/lolol.gif">
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
