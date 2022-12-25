@@ -1,4 +1,5 @@
-<img src="https://media.tenor.com/snND-LWJ-mwAAAAM/lolol.gif" width=300px>
+
+<p style="text-align:center;"><img src="https://media.tenor.com/snND-LWJ-mwAAAAM/lolol.gif" width=300px></p>
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
